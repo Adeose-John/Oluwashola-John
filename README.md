@@ -12,4 +12,4 @@ I'm a full-stack software engineer based in Nigeria, specializing in building sc
 - **Engineering Practices:** Monorepo architecture, end-to-end type safety, component modularity, and systematic root-cause troubleshooting
 
 **📫 Let's Connect:**
-- [LinkedIn]([#](https://www.linkedin.com/in/adeose-oluwashola-32982827a/))
+- [https://www.linkedin.com/in/adeose-oluwashola-32982827a/]
